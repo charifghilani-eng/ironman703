@@ -1,0 +1,16 @@
+checkpoint,order,speed_kmh
+Start,0,0.0
+Swim,1,2.0
+IN,2,24.0
+T1,3,24.0
+Bike 10 km,4,23.77
+Bike 42 km,5,24.69
+Bike 78 km,6,24.4
+Bike,7,20.42
+T2,8,3.0
+Run 7 km,9,8.5
+Run 10.5 km,10,9.0
+Run 14.2 km,11,8.5
+RUN 20 km,12,9.0
+SPEAKER,13,3.0
+Run/Finish,14,3.0

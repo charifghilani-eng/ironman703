@@ -1,0 +1,4 @@
+discipline,z_ag,z_male,confounder
+Swim,1.63,1.01,none (clean weakness)
+Bike,1.38,1.24,equipment (road bike)
+Run,1.52,1.49,injury + fatigue (corrected)

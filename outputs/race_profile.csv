@@ -1,0 +1,6 @@
+segment,order,field_avg_kmh,your_kmh
+Swim,0,3.1,2.5
+T1,1,1.0,1.0
+Bike,2,31.5,24.4
+T2,3,1.0,1.0
+Run,4,10.7,7.6
