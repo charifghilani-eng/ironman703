@@ -49,31 +49,31 @@ An interactive Power BI dashboard presenting the full analysis across seven page
 
 ### Overview Analysis
 Field-wide view of all 522 finishers — average splits, age-group breakdown, athlete map, and an interactive race-pace profile.
-![Overview Analysis](images/overview.png)
+![Overview Analysis](Capture d'écran 2026-08-03 013546.png)
 
 ### My Race Diagnosis
 My race in detail — splits, official race-pace curve, and the z-score analysis identifying my limiting factor.
-![My Race Diagnosis](images/diagnosis.png)
+![My Race Diagnosis](Capture d'écran 2026-08-03 013615.png)
 
 ### Swim Deep-Dive
 Why the swim is my primary trainable weakness — training volume, sessions, and performance vs the field.
-![Swim Deep-Dive](images/swim.png)
+![Swim Deep-Dive](Capture d'écran 2026-08-03 013642.png)
 
 ### Bike Deep-Dive
 My relative strength — speed analysis and the equipment vs fitness decomposition.
-![Bike Deep-Dive](images/bike.png)
+![Bike Deep-Dive](Capture d'écran 2026-08-03 013714.png)
 
 ### Run Deep-Dive
 The injury story — how IT-band injury and fatigue confounded my run, and the evidence of my true run fitness.
-![Run Deep-Dive](images/run.png)
+![Run Deep-Dive](Capture d'écran 2026-08-03 013738.png)
 
 ### Transitions (T1 & T2)
 The free time — T1 was ~2 minutes slower than average, the cheapest gain in the whole race.
-![Transitions](images/transitions.png)
+![Transitions](Capture d'écran 2026-08-03 013813.png)
 
 ### Conclusion & Readiness
 Where I stand now and a 35-week readiness plan projecting my fitness toward Ironman 70.3 Portugal (April 2027).
-![Conclusion](images/conclusion.png)
+![Conclusion](Capture d'écran 2026-08-03 013936.png)
 
 ## ⚠️ Notes & Limitations
 
